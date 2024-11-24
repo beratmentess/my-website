@@ -46,10 +46,20 @@ export default function About() {
               </p>
               <h4 className="text-lg font-bold">Mahir Berat Menteş</h4>
               <div className="flex gap-5">
-                <Button as={Link} isIconOnly variant="light">
+                <Button
+                  as={Link}
+                  href="https://github.com/beratmentess"
+                  isIconOnly
+                  variant="light"
+                >
                   <LucideGithub />
                 </Button>{" "}
-                <Button as={Link} isIconOnly variant="light">
+                <Button
+                  as={Link}
+                  href="https://www.linkedin.com/in/mahir-berat-mente%C5%9F-34649b1b0/"
+                  isIconOnly
+                  variant="light"
+                >
                   <LucideLinkedin />
                 </Button>
               </div>

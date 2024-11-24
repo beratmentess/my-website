@@ -52,12 +52,22 @@ export default function Navbar() {
           <ThemeToggler />
         </NavbarItem>
         <NavbarItem>
-          <Button as={Link} isIconOnly variant="light">
+          <Button
+            as={Link}
+            href="https://github.com/beratmentess"
+            isIconOnly
+            variant="light"
+          >
             <LucideGithub />
           </Button>
         </NavbarItem>
         <NavbarItem>
-          <Button as={Link} isIconOnly variant="light">
+          <Button
+            as={Link}
+            href="https://www.linkedin.com/in/mahir-berat-mente%C5%9F-34649b1b0/"
+            isIconOnly
+            variant="light"
+          >
             <LucideLinkedin />
           </Button>
         </NavbarItem>
