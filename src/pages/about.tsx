@@ -34,15 +34,13 @@ export default function About() {
               <h2 className="text-3xl font-extrabold">MAHİR BERAT MENTEŞ</h2>
               <h4 className="text-lg font-bold">Software Developer</h4>
               <p>
-                Hello! I am Berat. I am currently a first-year Computer
-                Engineering student at Pamukkale University and started
-                improving my software development skills as of November 2023. So
-                far, I have learned the C programming language and continue to
-                enhance my JavaScript skills. I am currently focusing on
-                improving my knowledge of HTML, CSS, and JavaScript.
-                Additionally, I am improving my skills in Python and aiming to
-                advance in the field of artificial intelligence. Feel free to
-                contact me if you would like to learn more.
+                Hello! I’m Mahir Berat Menteş, a first-year Computer Engineering student at Pamukkale University. 
+                Since November 2023, I’ve been developing my skills in software development. 
+                During this time, I gained experience in C and JavaScript, and I also reached an intermediate level of proficiency in Python.
+                My interest in artificial intelligence technologies is growing every day, and I strive to continuously improve in this field. 
+                Additionally, I aim to enhance my skills in software engineering and pursue a career in this sector.
+                I find networking and exploring new opportunities on LinkedIn very valuable. 
+                If you'd like to exchange ideas or collaborate, please feel free to reach out to me.
               </p>
               <h4 className="text-lg font-bold">Mahir Berat Menteş</h4>
               <div className="flex gap-5">
